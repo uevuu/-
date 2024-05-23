@@ -1,0 +1,22 @@
+/* 
+  DaDataApi.strings
+  MarketPlace
+
+  Created by Nikita Marin on 07.07.2023.
+  
+*/
+
+"authorization" = "Authorization";
+
+"secretKey" = "Token 420619e643d6fd7e167358e890b21aacb789a5af";
+"baseUrl" = "https://suggestions.dadata.ru/suggestions";
+"apiSuggestAddress" = "/api/4_1/rs/suggest/address";
+
+"query" = "query";
+"count" = "count";
+"fromBound" = "from_bound";
+"toBound" = "to_bound";
+"value" = "value";
+"city" = "city";
+"settlement" = "settlement";
+"house" = "house";

@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  MarketPlace
+
+  Created by Nikita Marin on 03.07.2023.
+  
+*/
+
+"logIn" = "Войти";
+"signUp" = "Зарегестрироваться";
+"registration" = "Регистрация";
+"welcomeText" = "Чтобы продолжить войдите в свой аккаунт. Если у вас еще нет личного кабинета, то вы можете зарегистрировать его по кнопке ниже";
+"LogInAndRegistration" = "Вход и регистрация";
+
+"email" = "Почта";
+"password" = "Пароль";
+"firstName" = "Имя";
+"lastName" = "Фамилия";
+"phoneNumber" = "Мобильный телефон";
+"iAmSeller" = "Я продавец";
+"emailOrPhoneNumber" = "Почта/Телефон";
+
+"passwordValidation" = "Пароль должен содержать не менее 10 символов, минимум 1 цифра, минимум 1 буква";
+"incorrectPassword" = "Неверный пароль";
+"incorrectFormat" = "Неверный формат";
+"emailOrPhoneNumberNotExist" = "Пользователь не найден";
+"sameDataError" = "Пользователь с такими данными уже существует";
+
+"onAccount" = "На счету";
+"points" = "бонусов";
+"cashIn" = "Пополнить";
+"myOrder" = "Мои заказы";
+"City" = "Город";
+"applicationTheme" = "Тема приложения";
+
+"enterAmount" = "Введите сумму, на которую хотите пополнить счет";
+"pointsCount" = "Количество бонусов";
+
+"myDetails" = "Мои данные";
+"patronymic" = "Отчество";
+"gender" = "Ваш пол";
+"birthDate" = "Дата рождения";
+"logOut" = "Выйти";
+"deleteAccount" = "Удалить аккаунт";
+"ready" = "Готово";
+
+"cancel" = "Отмена";
+"delete" = "Удалить";
+"deleteWarning" = "Вы точно хотите удалить аккаунт? Отменить данное действие будет невозможно";
+"logOutWarning" = "Вы действительно хотите выйти?";
+
+"orders" = "Заказы";
+"populatedArea" = "Населенный пункт";
+"titleSearch" ="Поиск по названию";
+
+"productDescription" = "Описание товара";
+"description" = "Описание:";
+"addToCart" = "Добавить в корзину";
+"removeFromCart" = "Убрать из корзины";
+
+"mockDescription" = "Стильное и комфортное платье изготовлено из мягкой, тактильно-приятной ткани. Базовый элемент женского гардероба на каждый день.";
+
+"cart" = "Корзина";
+"deleteSelected" = "Удалить выбранные";
+"selectAll" = "Выбрать все";
+"proceedToCheckout" = "Перейти к оформлению";
+"count" = "Количество:";
+"deleteProduct" = "Удалить товар";
+"deleteProductWarning" = "Вы точно хотите удалить выбранный товар? Отменить данное действие будет невозможно";
+"selectCount" = "Выберите количество";
+"remain" = "Осталось";
+"productCount" = "Количество товара";
+
+"cancelProduct" = "Отменить товар";
+"issueReturn" = "Оформить возврат";
+"received" = "Получен";
+"new" = "Новый";
+"orderingInformation" = "Информация о заказе";
+
+"orderAmount" = "Сумма заказа";
+"goodsWorth" = "Товаров на сумму";
+"total" = "Итого";
+"delivery" = "Доставка";
+"products" = "Товары";
+
+"filters" = "Фильтры";
+"Price" = "Цена";
+"allCategory" = "Все категории";
+"from" = "От";
+"to" = "До";
+"apply" = "Применить";
+
+"productСreation" = "Создание товара";
+"title" = "Название";
+"amount" = "Сумма";
+"descriptionWithoutDot" = "Описание";
+"next" = "Далее";
+"maximumCharacters" = "Максимум 7500 символов";
+
+"edit" = "Редактировать";
+"deleteProductPhotoWarning" = "Вы точно хотите удалить фото? Отменить данное действие будет невозсожно";
+"choosingcCategory" = "Выбор категории";
+"productName" = "Название товара";

@@ -1,0 +1,20 @@
+/* 
+  SystemImage.strings
+  MarketPlace
+
+  Created by Nikita Marin on 07.07.2023.
+  
+*/
+
+"camera" = "camera";
+"person" = "person.crop.circle";
+"chevronRight" = "chevron.right";
+"checkmark" = "checkmark";
+"checkmarkCircleFill" = "checkmark.circle.fill";
+"circle" = "circle";
+"forward" = "chevron.forward";
+"plus" = "plus";
+"circle" = "circle";
+"circleInsetFilled" = "circle.inset.filled";
+
+"bear" = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODkyMTUyMTIsImlhdCI6MTY4OTEyODgxMiwKICAiaWQiIDogImUyMzMxY2I1LTM0ZTQtNGJhNy1hYTk1LWRiM2Q1YTNiNjc3YiIsCiAgInJvbGVzIiA6ICJDVVNUT01FUiIKfQ.K6Cj0F8JrfcGLvaLMeXFlzEA514htxf8h8vy8AdgYPk";

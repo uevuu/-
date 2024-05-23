@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  MarketPlace
+
+  Created by Nikita Marin on 03.07.2023.
+  
+*/
+
+"logIn" = "Log in";
+"signUp" = "Sign up";
+"registration" = "Registration";
+"welcomeText" = "Log in to your account to continue. If you don't have a personal account yet, you can register one using the button below";
+"LogInAndRegistration" = "Log in and registration";
+
+"email" = "Email";
+"password" = "Password";
+"firstName" = "First name";
+"lastName" = "Last name";
+"phoneNumber" = "Phone number";
+"iAmSeller" = "I'm seller";
+"emailOrPhoneNumber" = "Email/Phone number";
+
+"passwordValidation" = "Password must contain at least 10 characters, minimum 1 number, minimum 1 letter";
+"incorrectPassword" = "Incorrect password";
+"incorrectFormat" = "Incorrect format";
+"emailOrPhoneNumberNotExist" = "User not found";
+"sameDataError" = "A user with such data already exists";
+
+"onAccount" = "On account";
+"points" = "points";
+"cashIn" = "Cash in";
+"myOrder" = "My orders";
+"City" = "City";
+"applicationTheme" = "Application theme";
+
+"enterAmount" = "Enter the amount for which you want to recharge";
+"pointsCount" = "Bonus amount";
+
+"myDetails" = "My details";
+"patronymic" = "Patronymic";
+"gender" = "Your gender";
+"birthDate" = "Date of birth";
+"logOut" = "Log out";
+"deleteAccount" = "Delete account";
+"ready" = "Ready";
+
+"cancel" = "Cancel";
+"delete" = "Delete";
+"deleteWarning" = "Are you sure you want to delete your account? It will not be possible to undo this action";
+"logOutWarning" = "Do you really want to go out?";
+
+"orders" = "Orders";
+"populatedArea" = "Populated area";
+"titleSearch" ="Title search";
+
+"productDescription" = "Product description";
+"description" = "Description:";
+"addToCart" = "Add to cart";
+"removeFromCart" = "Remove from cart";
+
+"mockDescription" = "Стильное и комфортное платье изготовлено из мягкой, тактильно-приятной ткани. Базовый элемент женского гардероба на каждый день.";
+
+"cart" = "Cart";
+"deleteSelected" = "Delete selected";
+"selectAll" = "Select all";
+"proceedToCheckout" = "Proceed to checkout";
+"count" = "Count:";
+"deleteProduct" = "Delete product";
+"deleteProductWarning" = "Are you sure you want to delete the selected item? It will not be possible to cancel this action";
+"selectCount" = "Select count";
+"remain" = "Remain";
+"productCount" = "Product count";
+
+"cancelProduct" = "Cancel product";
+"issueReturn" = "Issue a return";
+"received" = "Received";
+"new" = "New";
+"orderingInformation" = "Ordering information";
+
+"orderAmount" = "Order amount";
+"goodsWorth" = "Goods worth";
+"total" = "Total";
+"delivery" = "Delivery";
+"products" = "Products";
+
+"filters" = "Filters";
+"Price" = "Price";
+"allCategory" = "All category";
+"from" = "From";
+"to" = "To";
+"apply" = "Apply";
+
+"productСreation" = "Product creation";
+"title" = "Title";
+"amount" = "Amount";
+"descriptionWithoutDot" = "Description";
+"next" = "Next";
+"maximumCharacters" = "Maximum 7500 characters";
+
+"edit" = "Edit";
+"deleteProductPhotoWarning" = "Are you sure you want to delete a photo? It will be impossible to cancel this action";
+"choosingcCategory" = "Choosing a category";
+"productName" = "Product name";
